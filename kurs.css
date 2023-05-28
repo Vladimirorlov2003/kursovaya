@@ -41,7 +41,6 @@ header {
 	font-family: cursive;
 	animation-name: present;
 	animation-duration: 2s;
-	padding: 1rem;
 }
 section {
 	display: flex;
@@ -375,18 +374,10 @@ td {
 	section {
 		height: 50rem;
 	}
-	.p6 {
-		height: 100rem;
-		width: 20rem;
-	}
 }
 .p5 {
 	display: flex;
 	flex-wrap: wrap;
 	height: 3rem;
 	text-align: center;
-}
-.p6{
-	height: 100rem;
-	width: 20rem;
 }
