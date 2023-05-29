@@ -404,7 +404,6 @@ td {
 	display: flex;
 	flex-wrap: wrap;
 	height: 3rem;
-	text-align: center;
 	width: 50px;
 }
 .span {
