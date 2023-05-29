@@ -381,3 +381,16 @@ td {
 	height: 3rem;
 	text-align: center;
 }
+@media sreen and (min-width: 400px) and (max-width: 700px){
+header {
+	background-color: black;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	text-align: center;
+	font-size: 30px;
+	animation-duration: 2s;
+	height: 100%;
+}
+}
