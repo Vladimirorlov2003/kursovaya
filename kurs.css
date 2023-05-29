@@ -393,6 +393,9 @@ td {
 	span {
 		font-size: 64px;
 	}
+	.p1 {
+		font-size: 21px;
+	}
 }
 .p5 {
 	display: flex;
