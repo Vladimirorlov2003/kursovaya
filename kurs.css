@@ -318,49 +318,7 @@ td {
 	margin-bottom: 7rem;
 }
 
-@media screen and (min-width: 1000px) and (max-width: 1600px) {
-	section {
-		height: 120rem;
-	}
-	.p1{
-		font-size: 15px;
-		width: 0.7rem;	
-		margin: 0;
-	}
-	.slider {
-		margin-top: 320rem;
-		width: 20rem;
-		height: 17rem;
-	}
-	li {
-		font-size: 21px;
-	}
-	.centr {
-		text-align: top;
-	}
-	p {
-		font-size: 13px;
-	}
-	.p2 {
-		height: 60rem;
-	}
-	.bar {
-		height: 0.5rem;
-	width: 2rem;
-	margin: 0.3rem;
-	cursor: pointer;
-	opacity: .7;
-	border-radius: 3px;
-	transition: all .4s ease;
-	background-color: #ddd;
-	text-align: center;
-	}
-	.long {
-		width: 55rem;
-		text-align: 10px;
-		height: 70rem;
-	}
-}
+
 @media screen and (min-width: 80rem) {
 	.slider {
 		margin-top: 165rem;
