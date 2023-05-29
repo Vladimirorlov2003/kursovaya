@@ -364,7 +364,7 @@ td {
 @media screen and (min-width: 741px) {
 	.slider {
 		margin-top: 3000px;
-		width: 450px;
+		width: 500px;
 		height: 400px;
 		margin-left: 120px;
 	}
@@ -377,7 +377,7 @@ td {
 	.border{
 		padding-left: 50px:
 		padding-right: 50px;
-		padding: 20px;
+		padding: 40px;
 	}
 	.bar {
 	height: 15px;
