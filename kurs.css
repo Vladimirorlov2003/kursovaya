@@ -393,19 +393,19 @@ td {
 	span {
 		font-size: 64px;
 	}
-	.p5 {
-	display: flex;
-	flex-wrap: wrap;
-	height: 3rem;
-	text-align: center;
-	width: 50px;
-}
 }
 .p5 {
 	display: flex;
 	flex-wrap: wrap;
 	height: 3rem;
 	text-align: center;
+}
+.p7 {
+	display: flex;
+	flex-wrap: wrap;
+	height: 3rem;
+	text-align: center;
+	width: 50px;
 }
 .span {
 	font-size: 100px;
