@@ -393,12 +393,6 @@ td {
 	span {
 		font-size: 64px;
 	}
-	.p5 {
-	display: flex;
-	flex-wrap: wrap;
-	height: 3rem;
-	text-align: center;
-}
 }
 .p5 {
 	display: flex;
