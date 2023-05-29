@@ -390,6 +390,9 @@ td {
 	background-color: #ddd;
 	text-align: center;
 	}
+	span {
+		font-size: 64px;
+	}
 }
 .p5 {
 	display: flex;
