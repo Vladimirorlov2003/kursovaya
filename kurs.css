@@ -400,13 +400,13 @@ td {
 .p5 {
 	display: flex;
 	flex-wrap: wrap;
-	height: 3rem;
+	height: 1rem;
 	text-align: center;
 }
 .p7 {
 	display: flex;
 	flex-wrap: wrap;
-	height: 3rem;
+	height: 2rem;
 	width: 100px;
 }
 .span {
