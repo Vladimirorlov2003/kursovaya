@@ -409,37 +409,4 @@ td {
 .span {
 	font-size: 100px;
 }
-@media screen and (min-width: 1200px) {
-	.slider {
-		margin-top: 2700px;
-		width: 570px;
-		height: 470px;
-		margin-left: 200px;
-	}
-	.divsection {
-		margin-top: 6rem;
-	}
-	section {
-		height: 50rem;
-	}
-	.border{
-		padding-left: 70px:
-		padding-right: 70px;
-		padding: 40px;
-	}
-	.bar {
-	height: 15px;
-	width: 33px;
-	margin: 5px;
-	cursor: pointer;
-	opacity: .7;
-	border-radius: 3px;
-	transition: all .4s ease;
-	background-color: #ddd;
-	text-align: center;
-	}
-	span {
-		font-size: 64px;
-	}
-}
 
