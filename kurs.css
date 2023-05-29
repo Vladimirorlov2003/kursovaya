@@ -361,12 +361,12 @@ td {
 		height: 70rem;
 	}
 }
-@media screen and (min-width: 80rem) {
+@media screen and (min-width: 741px) {
 	.slider {
-		margin-top: 165rem;
-		width: 60rem;
-		height: 25rem;
-		margin-left: 15rem;
+		margin-top: 1000px;
+		width: 200px;
+		height: 100px;
+		margin-left: 20px;
 	}
 	.divsection {
 		margin-top: 6rem;
