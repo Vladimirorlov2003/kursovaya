@@ -407,7 +407,7 @@ td {
 	display: flex;
 	flex-wrap: wrap;
 	height: 3rem;
-	width: 50px;
+	width: 100px;
 }
 .span {
 	font-size: 100px;
