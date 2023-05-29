@@ -366,7 +366,7 @@ td {
 		margin-top: 3000px;
 		width: 450px;
 		height: 400px;
-		margin-left: 80px;
+		margin-left: 100px;
 	}
 	.divsection {
 		margin-top: 6rem;
@@ -375,14 +375,14 @@ td {
 		height: 70rem;
 	}
 	.border{
-		padding-left: 70px:
-		padding-right: 70px;
+		padding-left: 50px:
+		padding-right: 50px;
 		padding: 50px;
 	}
 	.bar {
-	height: 8px;
-	width: 10px;
-	margin: 1px;
+	height: 15px;
+	width: 30px;
+	margin: 10px;
 	cursor: pointer;
 	opacity: .7;
 	border-radius: 3px;
