@@ -366,7 +366,7 @@ td {
 		margin-top: 3000px;
 		width: 450px;
 		height: 400px;
-		margin-left: 100px;
+		margin-left: 120px;
 	}
 	.divsection {
 		margin-top: 6rem;
@@ -377,7 +377,7 @@ td {
 	.border{
 		padding-left: 50px:
 		padding-right: 50px;
-		padding: 50px;
+		padding: 20px;
 	}
 	.bar {
 	height: 15px;
@@ -399,5 +399,8 @@ td {
 	flex-wrap: wrap;
 	height: 3rem;
 	text-align: center;
+}
+.span {
+	font-size: 100px;
 }
 
