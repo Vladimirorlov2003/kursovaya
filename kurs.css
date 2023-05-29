@@ -59,12 +59,6 @@ main {
 	flex-wrap: wrap;
 	justify-content: center;
 }
-
-@media screen and (max-width: 90rem){
-	section {
-		height: 110rem;
-	}
-}
 .div1:hover {
 	height: 470px;
 	font-family: cursive;
@@ -74,11 +68,6 @@ main {
 .border1 {
 	border: 7px solid silver;
 	z-index: 3;
-}
-@media screen and (max-width: 50rem) {
-	p {
-		height: 50rem;
-	}
 }
 .ul {
 	display: flex;
@@ -316,22 +305,6 @@ td {
 	font-size: 32px;
 	width: 30rem;
 	margin-bottom: 7rem;
-}
-
-
-@media screen and (min-width: 80rem) {
-	.slider {
-		margin-top: 165rem;
-		width: 60rem;
-		height: 25rem;
-		margin-left: 15rem;
-	}
-	.divsection {
-		margin-top: 6rem;
-	}
-	section {
-		height: 50rem;
-	}
 }
 .p5 {
 	display: flex;
