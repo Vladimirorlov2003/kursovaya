@@ -374,6 +374,11 @@ td {
 	section {
 		height: 50rem;
 	}
+	.border{
+		padding-left: 100px:
+		padding-right: 100px;
+		padding: 50px;
+	}
 }
 .p5 {
 	display: flex;
