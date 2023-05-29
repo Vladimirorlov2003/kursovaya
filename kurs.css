@@ -46,7 +46,7 @@ section {
 	display: flex;
 	background-color: white;
 	width: 100rem;
-	height: 10rem;
+	height: 9rem;
 	font-size: 20px;
 	justify-content: space-around;
 	flex-wrap: wrap;
@@ -363,10 +363,10 @@ td {
 }
 @media screen and (min-width: 741px) {
 	.slider {
-		margin-top: 2700px;
+		margin-top: 3000px;
 		width: 450px;
 		height: 400px;
-		margin-left: 50px;
+		margin-left: 80px;
 	}
 	.divsection {
 		margin-top: 6rem;
@@ -375,13 +375,13 @@ td {
 		height: 70rem;
 	}
 	.border{
-		padding-left: 100px:
-		padding-right: 100px;
+		padding-left: 70px:
+		padding-right: 70px;
 		padding: 50px;
 	}
 	.bar {
-		height: 2px;
-	width: 3px;
+	height: 8px;
+	width: 10px;
 	margin: 1px;
 	cursor: pointer;
 	opacity: .7;
